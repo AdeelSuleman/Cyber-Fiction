@@ -87,12 +87,13 @@ canvas{
     font-weight: 400;
     font-size: 22px;
 }
-#nav>button{
+#nav>a>button{
     padding: 10px 20px;
     border-radius: 50px;
     background-color: #000;
     color: #fff;
     border: none;
+    cursor: pointer;
 }
 #page>h3{
     position: absolute;
